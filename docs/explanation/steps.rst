@@ -1,11 +1,4 @@
-.. Author's note: This document aims to answer these questions:
-.. * What are steps?
-.. * What purposes do they have?
-.. But not these:
-.. * How do they work?
-.. * What do they do?
-
-.. _steps_explanation:
+.. _steps:
 
 Steps
 =====
